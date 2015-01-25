@@ -1,0 +1,17 @@
+{
+    "contents" : "---\ntitle: \"HelloWorld.md\"\nauthor: \"Bruce Stott\"\ndate: \"Sunday, January 25, 2015\"\noutput: html_document\n---\n\n## This is a markdown file\n\n",
+    "created" : 1422220700000.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "208529417",
+    "id" : "75FD73A",
+    "lastKnownWriteTime" : 1422222753,
+    "path" : "~/test/HelloWorld.md",
+    "project_path" : "HelloWorld.md",
+    "properties" : {
+        "tempName" : "Untitled1"
+    },
+    "source_on_save" : false,
+    "type" : "markdown"
+}
